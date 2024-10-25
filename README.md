@@ -1,6 +1,11 @@
 # 👋 안녕하세요! 이유림입니다
 
 ---
+👩🏻‍💻 
+컴퓨터소프트웨어공학 전공 (2019~2024)
+---
+
+
 
 ## 🛠 기술 스택
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
