@@ -17,10 +17,12 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 
 
-🔖 Projects
----
+## 🔖 Projects
 
-| Project    | Tech Stack                                    | 
-| ---------- | ---------------------------------------------- |
-| . | .                 |
+|                                              Project                                              |        Tech Stack       | Year |
+| :-----------------------------------------------------------------------------------------------: |  :--------------------: | :--: |
 
+| [선한 영향력 가게 알림이](https://github.com/yurim1205/Sec_app) |       flutter      | 2022 |
+| [Tripteller]([https://drive.google.com/file/d/1kh6ypadoPtBwh9cuYao8iJoTdi9xxj3X/view](https://github.com/TripTeller-repository))       |          React           |  2024 |
+
+<br><br>
