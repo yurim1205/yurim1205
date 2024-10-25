@@ -1,5 +1,4 @@
 # 👋 안녕하세요! 이유림입니다
-Frontend Developer passionate about building interactive and user-friendly web applications.
 
 ---
 
