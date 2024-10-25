@@ -20,3 +20,7 @@
 🔖 Projects
 ---
 
+| Project | Tech Stack | Year |
+| :-:  | :-: |
+| . | . |
+| . | . |
