@@ -21,7 +21,7 @@
 
 |                                              Project                                              |        Tech Stack       | Year |
 | :-----------------------------------------------------------------------------------------------: |  :--------------------: | :--: |
-| [선한 영향력 가게 알림이](https://github.com/yurim1205/Sec_app) |       flutter      | 2022 |
+| [선한 영향력 가게 알림이](https://github.com/yurim1205/Sec_app) |       flutter      | 2023 |
 | [Tripteller](https://github.com/TripTeller-repository)       |          React           |  2024 |
 
 <br><br>
