@@ -26,7 +26,3 @@
 | [Tripteller](https://github.com/TripTeller-repository)       |          React           |  2024 |
 
 <br><br>
-
-## 🔖 
-
-- 8st Elice Web Frontend Track
